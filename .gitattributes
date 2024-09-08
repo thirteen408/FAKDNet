@@ -1,0 +1,2 @@
+fpn_ins/evaout/bbox_results.json filter=lfs diff=lfs merge=lfs -text
+mfa_synins/evaout/bbox_results.json filter=lfs diff=lfs merge=lfs -text
