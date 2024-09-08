@@ -1,0 +1,1 @@
+epoch:50000 {'metrics': {'cAcc': {'averaged': 92.44, 'hard': 88.18, 'medium': 92.9, 'easy': 96.38}}}
